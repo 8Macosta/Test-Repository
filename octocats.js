@@ -4,7 +4,7 @@ this.breed = b
 
 }
 
-var
+var TigerCat = new octocat("Dark,600");
 
 
 
